@@ -318,9 +318,9 @@ input {
         padding: 0 20px;
     }
 
-    /* .about, .contact{
+    .about, .contact{
         padding: 20px;
-    } */
+    }
     .contact, .banner {
         flex-direction: column;
     }
